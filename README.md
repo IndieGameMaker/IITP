@@ -6,6 +6,8 @@
 #### [터레인 에셋](https://drive.google.com/open?id=1j5t3atEiFJG-9P7Z3G-NIesRwYdHiJaT)
 #### [스나이퍼](https://drive.google.com/open?id=1uo-8AX2GZSdwAaqlPf-etq6NZ3uH_nOP)
 
+#### [안드로이드 빌드과정](https://github.com/IndieGameMaker/SWU01/blob/master/안드로이드_빌드과정.md)
+
 ## 일자별 강의소스
 
 #### [2018/09/21 - SpaceShooter 최종강의소스](https://drive.google.com/open?id=1o5JzfobEbBgcqBjyNz33vkOeyaGXA7rh)
