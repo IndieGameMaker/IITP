@@ -6,7 +6,7 @@
 #### [터레인 에셋](https://drive.google.com/open?id=1j5t3atEiFJG-9P7Z3G-NIesRwYdHiJaT)
 #### [스나이퍼](https://drive.google.com/open?id=1uo-8AX2GZSdwAaqlPf-etq6NZ3uH_nOP)
 #### [안드로이드 빌드과정](https://github.com/IndieGameMaker/SWU01/blob/master/안드로이드_빌드과정.md)
-#### [Inventory 이미지]()
+#### [Inventory 이미지](https://github.com/IndieGameMaker/IITP/blob/master/34x34icons180709.png)
 
 ## 일자별 강의소스
 
