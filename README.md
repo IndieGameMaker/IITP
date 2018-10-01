@@ -11,6 +11,7 @@
 ## VR 교육 리소스
 
 #### [ShadowGun 리소스](https://drive.google.com/open?id=0B3oEiOFhHHVTaXdUUW9RSWVqQnM)
+#### [UI Texture](https://drive.google.com/open?id=0B3oEiOFhHHVTVmUyQ1E0OWdjU28)
 
 ## 일자별 강의소스
 
