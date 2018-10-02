@@ -17,6 +17,7 @@
 #### [360 비디오 (StarWars)](https://drive.google.com/open?id=1LvPTF2JhQ_GxtKQWu9MgTx1iY5XzkZvR)
 #### [360 비디오 (크래쉬로얄)](https://drive.google.com/open?id=1rkr7x7LogRFXOEAuttQAxhVruzH7oC3H)
 #### [Music mp3](https://github.com/IndieGameMaker/IITP/blob/master/09-In-The-Fall-Of-My-Heart.mp3)
+#### [Inverse Sphere Model](https://drive.google.com/open?id=0B3oEiOFhHHVTTk9kbkdhVTlfOGs)
 
 
 ## 일자별 강의소스
