@@ -35,3 +35,8 @@
 #### [2018/09/29 - 토요일 보충강의 소스](https://drive.google.com/open?id=1Bj29YUyP5-I7bIUSzjXjeBWuGnLi1_zY)
 
 #### [2018/10/01(월) - ShadowGunVR 소스](https://drive.google.com/open?id=1p715Wgv7aqunRx1BQ3dNzsSZbg1fvSjE)
+
+## [프로젝트 1] 러닝 게임
+
+#### [프로젝트 일정](https://docs.google.com/spreadsheets/d/1ipHifvjImREzlT2GDLRt_8nptqJgiYr17PIzIeRhLTk/edit?usp=sharing)
+
