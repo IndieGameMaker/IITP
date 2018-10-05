@@ -36,6 +36,10 @@
 
 #### [2018/10/01(월) - ShadowGunVR 소스](https://drive.google.com/open?id=1p715Wgv7aqunRx1BQ3dNzsSZbg1fvSjE)
 
+#### [2018/10/02 - VRPark 강의소스](https://drive.google.com/file/d/1oWWwaJlgkWAfXSXMatTCpqFsMgsN9f6o/view)
+#### [2018/10/03 - 달리기 게임 강의소스](https://drive.google.com/file/d/10lC-tUfaNLVqfJ578u-kZmFpSC_BgM9i/view)
+#### [2018/10/05 - Tween 소스](https://drive.google.com/file/d/1sg9akn0Gx440Z9YjROm0_T4bxKgHMB84/view)
+
 ## [프로젝트 1] 러닝 게임
 
 #### [프로젝트 일정](https://docs.google.com/spreadsheets/d/1ipHifvjImREzlT2GDLRt_8nptqJgiYr17PIzIeRhLTk/edit?usp=sharing)
