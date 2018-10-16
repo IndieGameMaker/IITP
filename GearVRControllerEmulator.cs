@@ -1,6 +1,7 @@
-﻿using UnityEngine;
+using UnityEngine;
 
 public class GearVRControllerEmulator : MonoBehaviour {
+#if UNITY_EDITOR
     public Transform controller;
     public float hDamping = 2.0f;
     public float vDamping = 2.0f;
@@ -26,4 +27,5 @@ public class GearVRControllerEmulator : MonoBehaviour {
                                                   , yAngle * vDamping
                                                   , 0f);
     }
+#endif
 }
