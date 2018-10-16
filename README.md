@@ -40,7 +40,22 @@
 #### [2018/10/03 - 달리기 게임 강의소스](https://drive.google.com/file/d/10lC-tUfaNLVqfJ578u-kZmFpSC_BgM9i/view)
 #### [2018/10/05 - Tween 소스](https://drive.google.com/file/d/1sg9akn0Gx440Z9YjROm0_T4bxKgHMB84/view)
 
-## [프로젝트 1] 러닝 게임
+# PJT01 1 러닝 게임
 
-#### [프로젝트 일정](https://docs.google.com/spreadsheets/d/1ipHifvjImREzlT2GDLRt_8nptqJgiYr17PIzIeRhLTk/edit?usp=sharing)
+### [프로젝트 일정](https://docs.google.com/spreadsheets/d/1ipHifvjImREzlT2GDLRt_8nptqJgiYr17PIzIeRhLTk/edit?usp=sharing)
 
+# PJT03 - VR 인테리어 제작
+
+## 배경
+
+1. 박물관, 사무실, 가정집 등 건물 내부 모델을 사용
+2. 가급적 퀄리티가 높은 모델을 선택한다.
+
+## 구현 사항
+
+1. GearVR 컨트롤의 터치패드를 활용해 바라보는 시선으로 이동 및 정지해야 한다.
+2. 라이트 맵과 라이트 프로브를 사용해 비주얼 퀄리티를 최대한 높인다.
+3. 박물관의 경우 그림 또는 조각상앞에 도착하면 해당 작품의 소개 문구가 팝업되어야 한다. 또한 닫힘 버튼을 클릭하면 닫히도록 구현한다.
+5. 식탁(또는 책상)위에 여러가지 소품이 흩어져 있도록 한후 GearVR 컨트롤러를 잡아서(Grab) 정해진 위치에 배치하는 기능을 구현한다.
+6. 건물 내부에 벽걸이 TV를 생성하고 동영상이 플레이 되도록 구현한다.
+7. 건물 내부에 2개 이상의 방이 있고 문 앞에서서 손잡이를 응시해 문을 열고 다른 방으로 진입한다.
