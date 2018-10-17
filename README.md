@@ -62,4 +62,6 @@
 
 ## 에셋 스토어 구매 목록
 
+에셋스토어에서 구매한 에셋은 여러분들의 프로젝트 퀄리티를 높이기 위함으로 **개인적인 용도**로만 사용해주시길 바랍니다.
+
 [구매목록](https://github.com/IndieGameMaker/IITP/blob/master/AssetStore구매목록.pdf)
