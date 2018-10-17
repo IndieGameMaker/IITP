@@ -62,4 +62,4 @@
 
 ## 에셋 스토어 구매 목록
 
-[](https://github.com/IndieGameMaker/IITP/blob/master/AssetStore구매목록.pdf)
+[구매목록](https://github.com/IndieGameMaker/IITP/blob/master/AssetStore구매목록.pdf)
