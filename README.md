@@ -69,4 +69,6 @@
 ## 3차 프로젝트 발표회 공지
 
 일시 : 2018년 10월 19일 16:00 ~ 17:00
+발표시간은 1인당 3분에서 5분내외로 자유롭게 발표하시면 됩니다.
+
 [발표자료 링크](https://docs.google.com/presentation/d/1W5mOjaluC7fdYSjqsxTaO-pCbqr1vIZnOHMv_te8niM/edit?usp=sharing)
