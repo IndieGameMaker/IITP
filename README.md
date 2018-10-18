@@ -65,3 +65,8 @@
 에셋스토어에서 구매한 에셋은 여러분들의 프로젝트 퀄리티를 높이기 위함으로 **개인적인 용도**로만 사용해주시길 바랍니다.
 
 [구매목록](https://github.com/IndieGameMaker/IITP/blob/master/AssetStore구매목록.pdf)
+
+## 3차 프로젝트 발표회 공지
+
+일시 : 2018년 10월 19일 16:00 ~ 17:00
+[발표자료 링크](https://docs.google.com/presentation/d/1W5mOjaluC7fdYSjqsxTaO-pCbqr1vIZnOHMv_te8niM/edit?usp=sharing)
