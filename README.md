@@ -73,3 +73,10 @@
 발표시간은 1인당 3분에서 5분내외로 자유롭게 발표하시면 됩니다.
 
 [발표자료 링크](https://docs.google.com/presentation/d/1W5mOjaluC7fdYSjqsxTaO-pCbqr1vIZnOHMv_te8niM/edit?usp=sharing)
+
+# PJT08 - 네트워크 게임
+
+[Tank 모델](https://drive.google.com/open?id=1tH1NL3RWKIldRvzATsRAL3hHRy0YET2L)
+[Terrain 에셋](https://drive.google.com/open?id=1j5t3atEiFJG-9P7Z3G-NIesRwYdHiJaT)
+
+50917edc-0e64-4a33-83eb-3e5616d01448
