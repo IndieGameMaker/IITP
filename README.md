@@ -81,3 +81,5 @@
 #### [Terrain 에셋](https://drive.google.com/open?id=1j5t3atEiFJG-9P7Z3G-NIesRwYdHiJaT)
 
 0691198d-e516-4fed-bd03-e15e60b2839e
+
+#### [Explosion Sound](grenade_exp2.wav)
