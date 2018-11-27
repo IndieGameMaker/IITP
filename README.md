@@ -87,3 +87,7 @@
 # PJT - 최종 프로젝트 (기업/개인)
 
 ### [프로젝트 소개 및 참여자](https://docs.google.com/spreadsheets/d/1eM8t6eO3uXYrjLdKPB4sTNw9S0tkICKqTkIkfPGUz7w/edit?usp=sharing)
+
+# 
+
+### [TA 세미나 참가 신청서](https://docs.google.com/spreadsheets/d/1tVBcv8Z_5jZjKr2YuvX4o9ixdKUymrU3KXdl5UGkMhY/edit#gid=1217516937)
