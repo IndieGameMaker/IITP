@@ -83,3 +83,7 @@
 0691198d-e516-4fed-bd03-e15e60b2839e
 
 #### [Explosion Sound](https://github.com/IndieGameMaker/IITP/blob/master/grenade_exp2.wav.zip)
+
+# PJT - 최종 프로젝트 (기업/개인)
+
+### [프로젝트 소개 및 참여자](https://docs.google.com/spreadsheets/d/1eM8t6eO3uXYrjLdKPB4sTNw9S0tkICKqTkIkfPGUz7w/edit?usp=sharing)
