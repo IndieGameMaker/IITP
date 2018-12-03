@@ -88,8 +88,6 @@
 
 ### [프로젝트 소개 및 참여자](https://docs.google.com/spreadsheets/d/1eM8t6eO3uXYrjLdKPB4sTNw9S0tkICKqTkIkfPGUz7w/edit?usp=sharing)
 
-# 
-
 ### [TA 세미나 참가 신청서](https://docs.google.com/spreadsheets/d/1tVBcv8Z_5jZjKr2YuvX4o9ixdKUymrU3KXdl5UGkMhY/edit#gid=1217516937)
 
 2018년 마지막 스터디 공지입니다.
@@ -105,7 +103,6 @@
 
 전반부 주제 발표가 끝난후 후반부는 지망생/현직에서 전직을 고민하는 분들과 현직 TA 분들의 이야기를 진행할 예정입니다. 자유롭게 이야기나누고 토론하는 시간을 가질 예정이니 TA분들의 많은 참여 부탁드립니다.
 
-참석을 원하시는분은 아래 링크 작성 부탁드립니다.
 
 
 
